@@ -2,5 +2,8 @@
   "name": "Capricorn",
   "version": "1.0.0",
   "devDependencies": {},
-  "dependencies": {}
+  "dependencies": {
+    "co": "^4.6.0",
+    "request": "^2.76.0"
+  }
 }
