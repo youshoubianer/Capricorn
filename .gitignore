@@ -1,3 +1,5 @@
 node_modules
 sources
 .DS_Store
+common/config.js
+schema
