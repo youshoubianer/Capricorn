@@ -8,7 +8,11 @@
 
 2. [导出chrome书签](chromeExtensions/bookmarks)
   
-  一键导出chrome书签（demo）
+  一键导出chrome书签（demo）
+  
+3. [上传粘贴板图片](chromeExtensions/uploadClipboardImg)
+  
+  上传粘贴板图片
 
 ### 工具类
 

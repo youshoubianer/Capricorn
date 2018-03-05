@@ -1,0 +1,48 @@
+<html>
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <title>urlCode</title>
+  <script type="text/javascript" src="./jquery-3.1.1.min.js"></script>
+  <script type="text/javascript" src="./jquery.md5.js"></script>
+  <style>
+    body {
+      width: 30em;
+      word-break: break-all;
+    }
+
+    #imgContainer {
+      width: 94%;
+      height: 13em;
+      border: 1px solid #ccc;
+      padding: 10px;
+      overflow-y: auto;
+    }
+
+    #imgContainer img {
+      max-height: 100px;
+    }
+
+    .spanSuccess {
+      color: forestgreen
+    }
+
+    .spanError {
+      color: red
+    }
+
+    a {
+      text-decoration: none;
+    }
+  </style>
+</head>
+
+<body>
+  <div id="imgContainer" contentEditable="true">
+  </div>
+  <button id="uploadBtn">上传</button>
+</body>
+
+<script type="text/javascript" src="./popup.js"></script>
+
+</html>
